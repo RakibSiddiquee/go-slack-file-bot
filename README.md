@@ -23,6 +23,6 @@ Install the package:
 1. https://github.com/slack-go/slack
 
 
-Finnaly add the file-bot into the cahnnel and run the following command:  
+Finnaly add the file-bot into the channel and run the following command:  
 1. go build
 2. go run main.go
