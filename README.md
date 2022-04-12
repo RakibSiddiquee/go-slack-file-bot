@@ -1,4 +1,4 @@
-# H1 Golang Slack File Bot
+## Golang Slack File Bot
 
 1. Create a new app name "file-bot" entering into the url https://api.slack.com/apps  
 2. Create a socket-token in App-Level Tokens under Basic Information
